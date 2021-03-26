@@ -1,1 +1,43 @@
 
+.header{
+ color:white;
+ background-color: #2D5F7C;
+}
+
+.Programmer{
+  font-size: 50px;
+  font-family:times;
+}
+
+.Noun{
+  color: #2D5F7C;
+  font-size: 25px;
+}
+.Pronunciation{
+  color:#2D5F7C;
+  font-style: italic;
+}
+.Defination{
+  font-weight: bold;
+}
+.Sentence{
+   font-weight: bold;
+   color:#2D5F7C;
+}
+.Examples{
+  font-style: italic;
+}
+.disclaimer{
+font-size:small;
+}
+.Footer{
+font-size:small;
+color:white;
+ background-color: #2D5F7C;
+}
+.first-use{
+  font-weight: bold;
+}
+.cite{
+  font-weight: bold;
+}
